@@ -11,3 +11,6 @@ h1 {
 p {
     font-size: 30px;
 }
+header {
+    border: 2px rgb(206, 42, 228);
+}
