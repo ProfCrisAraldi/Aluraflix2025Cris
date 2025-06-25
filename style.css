@@ -13,5 +13,5 @@ p {
 }
 header {
     border: solid 2px rgb(42, 122, 228);
-    padding: 20px;
+    margin: 20px;
 }
